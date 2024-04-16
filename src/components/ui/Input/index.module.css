@@ -1,0 +1,20 @@
+.input_container{
+    width: 100%;
+}
+
+.input_label{
+    display: block;
+    margin-bottom: 2px;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.input{
+    padding: 3px 3px;
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid blue;
+    outline: none;
+
+}
