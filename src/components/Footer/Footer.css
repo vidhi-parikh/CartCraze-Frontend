@@ -1,0 +1,32 @@
+
+.footer-container{
+    background-color: #0070f3;
+    color: white;
+    font-weight: 700;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 10px 0;
+}
+
+.links {
+    list-style: none;
+    font-size: 1rem;
+}
+
+.links>li {
+    padding: 4px 0;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer-last-row{
+    padding: 10px 0;
+    text-align: center;
+    background-color: bisque;
+}
